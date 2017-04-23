@@ -1,5 +1,5 @@
 /*
- * alexa-skill-boilerplate
+ * alexa-skill-skyplus
  * https://github.com/pete-rai/alexa-skill-skyplus
  *
  * Copyright 2017 Pete Rai
