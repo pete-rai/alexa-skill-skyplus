@@ -9,7 +9,7 @@ A connection between [Amazon Echo](https://en.wikipedia.org/wiki/Amazon_Echo) an
 a new Alexa skill which can respond to a range of requests to control you SkyPlus box. It
 does this by posting key sequences directly to the box from the AWS cloud. I'm not going
 to go into the details of how this works in the readme. You can read all that for yourself
-in the /lambda/index.js file. That is where all the magic is hiding.
+in the [lambda/index.js](https://github.com/pete-rai/alexa-skill-skyplus/blob/master/lambda/index.js) file. That is where all the magic is hiding.
 
 ### License
 
@@ -17,7 +17,7 @@ This plugin is available under [the MIT license](https://github.com/pete-rai/ale
 
 ### Acknowledgments
 
-Some portions of the file lambda/index.js were adapted from [work by dalhundal](https://github.com/dalhundal/sky-remote), my thanks to him/her for that.
+Some portions of the file [lambda/index.js](https://github.com/pete-rai/alexa-skill-skyplus/blob/master/lambda/index.js) were adapted from [work by dalhundal](https://github.com/dalhundal/sky-remote), my thanks to him/her for that.
 
 ### Karmaware
 
