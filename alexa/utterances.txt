@@ -1,0 +1,43 @@
+ShowMeSome show me {Genre}
+ShowMeSome show me {Genre} shows
+ShowMeSome show me {Genre} tv
+ShowMeSome show me {Genre} shit
+ShowMeSome show me {Genre} programs
+ShowMeSome show me some {Genre}
+ShowMeSome show me some {Genre} shows
+ShowMeSome show me some {Genre} tv
+ShowMeSome show me some {Genre} shit
+ShowMeSome show me some {Genre} programs
+ShowMeSome play some {Genre}
+ShowMeSome play some {Genre} shows
+ShowMeSome play some {Genre} tv
+ShowMeSome play some {Genre} shit
+ShowMeSome play some {Genre} programs
+ShowMeSome play a {Genre}
+ShowMeSome play a {Genre} show
+ShowMeSome play a {Genre} program
+ShowMeSome put on a {Genre}
+ShowMeSome put on a {Genre} show
+ShowMeSome put on a {Genre} program
+ShowMeSome put on some {Genre}
+ShowMeSome put on some {Genre} shows
+ShowMeSome put on some {Genre} tv
+ShowMeSome put on some {Genre} shit
+ShowMeSome put on some {Genre} programs
+TuneChannel tune to {Channel}
+TuneChannel tune to {Channel} channel
+TuneChannel tune to the {Channel} channel
+TuneChannel switch to {Channel}
+TuneChannel switch to {Channel} channel
+TuneChannel switch to the {Channel} channel
+TuneChannel switch over to {Channel}
+TuneChannel switch over to {Channel} channel
+TuneChannel switch over to the {Channel} channel
+Restart restart
+Restart restart this show
+Restart restart this program
+Restart restart this movie
+Record record
+Record record this show
+Record record this program
+Record record this movie

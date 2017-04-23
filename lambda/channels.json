@@ -1,0 +1,3850 @@
+[
+ {
+   "epg": 818,
+   "id": 3255,
+   "name": "aaj tak",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 837,
+   "id": 3594,
+   "name": "aastha",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 235,
+   "id": 3411,
+   "name": "abn tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 811,
+   "id": 5416,
+   "name": "abp news",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign, news"
+ },
+ {
+   "epg": 794,
+   "id": 3209,
+   "name": "abu dhabi tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 826,
+   "id": 6765,
+   "name": "ahlebait tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 831,
+   "id": 3701,
+   "name": "ahlulbayt tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 232,
+   "id": 3406,
+   "name": "ait international",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 843,
+   "id": 5087,
+   "name": "akaal channel",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 855,
+   "id": 5228,
+   "name": "al arabiya",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 514,
+   "id": 3107,
+   "name": "al jazeera",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign, news"
+ },
+ {
+   "epg": 247,
+   "id": 2303,
+   "name": "alibi",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "crime"
+ },
+ {
+   "epg": 132,
+   "id": 3825,
+   "name": "alibi",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "crime"
+ },
+ {
+   "epg": 226,
+   "id": 2630,
+   "name": "alibi plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "crime"
+ },
+ {
+   "epg": 192,
+   "id": 5036,
+   "name": "amc from bt",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 276,
+   "id": 5037,
+   "name": "amc from bt",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 853,
+   "id": 2609,
+   "name": "and tv",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "documentaries"
+ },
+ {
+   "epg": 795,
+   "id": 5050,
+   "name": "and tv",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "documentaries"
+ },
+ {
+   "epg": 562,
+   "id": 2402,
+   "name": "animal planet",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "documentaries, wildlife"
+ },
+ {
+   "epg": 523,
+   "id": 3813,
+   "name": "animal planet",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "documentaries, wildlife"
+ },
+ {
+   "epg": 549,
+   "id": 1352,
+   "name": "animal planet plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries, wildlife"
+ },
+ {
+   "epg": 519,
+   "id": 5071,
+   "name": "arise news",
+   "ignore": null,
+   "hd": null,
+   "keywords": "news"
+ },
+ {
+   "epg": 791,
+   "id": 4753,
+   "name": "ary digital",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 802,
+   "id": 3806,
+   "name": "ary news",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 804,
+   "id": 4265,
+   "name": "ary qtv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 415,
+   "id": 1354,
+   "name": "at the races",
+   "ignore": null,
+   "hd": null,
+   "keywords": "sports, equestrian"
+ },
+ {
+   "epg": 827,
+   "id": 6753,
+   "name": "atn bangla uk",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 780,
+   "id": 5703,
+   "name": "b four u movies",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign, movies"
+ },
+ {
+   "epg": 781,
+   "id": 5708,
+   "name": "b four u music",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign, music"
+ },
+ {
+   "epg": 623,
+   "id": 3645,
+   "name": "baby tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 821,
+   "id": 3820,
+   "name": "bangla tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 142,
+   "id": 2012,
+   "name": "bbc alba",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 143,
+   "id": 2018,
+   "name": "bbc four",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment, documentaries"
+ },
+ {
+   "epg": 116,
+   "id": 2086,
+   "name": "bbc four",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment, documentaries"
+ },
+ {
+   "epg": 570,
+   "id": 2011,
+   "name": "bbc news",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "news"
+ },
+ {
+   "epg": 503,
+   "id": 2085,
+   "name": "bbc news",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "news"
+ },
+ {
+   "epg": 101,
+   "id": 2002,
+   "name": "bbc one",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 115,
+   "id": 2076,
+   "name": "bbc one",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 504,
+   "id": 2072,
+   "name": "bbc parliament",
+   "ignore": null,
+   "hd": null,
+   "keywords": "news, politics"
+ },
+ {
+   "epg": 102,
+   "id": 2075,
+   "name": "bbc two",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 141,
+   "id": 2006,
+   "name": "bbc two",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 592,
+   "id": 3648,
+   "name": "believe tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 182,
+   "id": 3208,
+   "name": "ben",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 659,
+   "id": 4100,
+   "name": "best direct",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 187,
+   "id": 3719,
+   "name": "bet",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 464,
+   "id": 5229,
+   "name": "bike",
+   "ignore": null,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 502,
+   "id": 3260,
+   "name": "bloomberg",
+   "ignore": null,
+   "hd": null,
+   "keywords": "news, finance"
+ },
+ {
+   "epg": 571,
+   "id": 5530,
+   "name": "bon tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries"
+ },
+ {
+   "epg": 636,
+   "id": 5609,
+   "name": "boomerang",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 603,
+   "id": 4030,
+   "name": "boomerang",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "kids"
+ },
+ {
+   "epg": 618,
+   "id": 5603,
+   "name": "boomerang plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 361,
+   "id": 1350,
+   "name": "box hits",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 437,
+   "id": 3417,
+   "name": "box nation",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 490,
+   "id": 5039,
+   "name": "box nation",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports"
+ },
+ {
+   "epg": 359,
+   "id": 1874,
+   "name": "box upfront",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 824,
+   "id": 3653,
+   "name": "brit asia tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign, music"
+ },
+ {
+   "epg": 845,
+   "id": 5417,
+   "name": "british muslim",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 426,
+   "id": 3141,
+   "name": "bt sport espn",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 458,
+   "id": 4040,
+   "name": "bt sport espn",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports"
+ },
+ {
+   "epg": 414,
+   "id": 5032,
+   "name": "bt sport europe",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 433,
+   "id": 3629,
+   "name": "bt sport europe",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports"
+ },
+ {
+   "epg": 413,
+   "id": 3661,
+   "name": "bt sport one",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 427,
+   "id": 3625,
+   "name": "bt sport one",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports"
+ },
+ {
+   "epg": 417,
+   "id": 3663,
+   "name": "bt sport two",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 457,
+   "id": 3627,
+   "name": "bt sport two",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports"
+ },
+ {
+   "epg": 633,
+   "id": 2020,
+   "name": "c bbc",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 613,
+   "id": 2078,
+   "name": "c bbc",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "kids"
+ },
+ {
+   "epg": 624,
+   "id": 2019,
+   "name": "c beebies",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 614,
+   "id": 2088,
+   "name": "c beebies",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "kids"
+ },
+ {
+   "epg": 621,
+   "id": 6273,
+   "name": "c itv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 388,
+   "id": 2552,
+   "name": "capital tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 601,
+   "id": 4077,
+   "name": "cartoon network",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "kids"
+ },
+ {
+   "epg": 634,
+   "id": 5601,
+   "name": "cartoon network",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 602,
+   "id": 5610,
+   "name": "cartoon network plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 619,
+   "id": 1371,
+   "name": "cartoonito",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 148,
+   "id": 4610,
+   "name": "cbs action",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 149,
+   "id": 3617,
+   "name": "cbs drama",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 146,
+   "id": 3352,
+   "name": "cbs reality",
+   "ignore": null,
+   "hd": null,
+   "keywords": "reality"
+ },
+ {
+   "epg": 147,
+   "id": 3602,
+   "name": "cbs reality plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "reality"
+ },
+ {
+   "epg": 510,
+   "id": 3211,
+   "name": "cctv news",
+   "ignore": null,
+   "hd": null,
+   "keywords": "news"
+ },
+ {
+   "epg": 145,
+   "id": 2202,
+   "name": "challenge",
+   "ignore": null,
+   "hd": null,
+   "keywords": "quiz"
+ },
+ {
+   "epg": 164,
+   "id": 4332,
+   "name": "challenge plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "quiz"
+ },
+ {
+   "epg": 385,
+   "id": 3403,
+   "name": "channel aka",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 105,
+   "id": 4058,
+   "name": "channel five",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 171,
+   "id": 1800,
+   "name": "channel five",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 177,
+   "id": 1839,
+   "name": "channel five plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 175,
+   "id": 3028,
+   "name": "channel five plus twentyfour",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 104,
+   "id": 1621,
+   "name": "channel four",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 227,
+   "id": 4075,
+   "name": "channel four",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 135,
+   "id": 1670,
+   "name": "channel four plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 833,
+   "id": 4102,
+   "name": "channel i",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign, movies"
+ },
+ {
+   "epg": 575,
+   "id": 5520,
+   "name": "channels twenty four",
+   "ignore": null,
+   "hd": null,
+   "keywords": "news, documentaries"
+ },
+ {
+   "epg": 365,
+   "id": 3505,
+   "name": "chart show tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 422,
+   "id": 1757,
+   "name": "chelsea tv",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports, football"
+ },
+ {
+   "epg": 421,
+   "id": 4038,
+   "name": "chelsea tv",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports, football"
+ },
+ {
+   "epg": 370,
+   "id": 3682,
+   "name": "chilled tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 814,
+   "id": 3815,
+   "name": "chs tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 383,
+   "id": 4505,
+   "name": "clubland tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 505,
+   "id": 3611,
+   "name": "cnbc",
+   "ignore": null,
+   "hd": null,
+   "keywords": "news"
+ },
+ {
+   "epg": 515,
+   "id": 5337,
+   "name": "cnc world",
+   "ignore": null,
+   "hd": null,
+   "keywords": "news, documentaries"
+ },
+ {
+   "epg": 506,
+   "id": 5602,
+   "name": "cnn",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "news"
+ },
+ {
+   "epg": 579,
+   "id": 1019,
+   "name": "cnn",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "news"
+ },
+ {
+   "epg": 786,
+   "id": 3714,
+   "name": "colors",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 205,
+   "id": 2510,
+   "name": "comedy central",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "comedy"
+ },
+ {
+   "epg": 112,
+   "id": 4056,
+   "name": "comedy central",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment, comedy"
+ },
+ {
+   "epg": 127,
+   "id": 3802,
+   "name": "comedy central plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment, comedy"
+ },
+ {
+   "epg": 128,
+   "id": 1813,
+   "name": "comedy extra",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment, comedy"
+ },
+ {
+   "epg": 159,
+   "id": 3607,
+   "name": "comedy extra plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment, comedy"
+ },
+ {
+   "epg": 539,
+   "id": 1872,
+   "name": "community",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries"
+ },
+ {
+   "epg": 679,
+   "id": 5296,
+   "name": "craft channel",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping, craft"
+ },
+ {
+   "epg": 675,
+   "id": 3012,
+   "name": "craft extra",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping, craft"
+ },
+ {
+   "epg": 674,
+   "id": 5741,
+   "name": "create and craft",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping, craft"
+ },
+ {
+   "epg": 553,
+   "id": 4088,
+   "name": "crime and investigation",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "documentaries, crime"
+ },
+ {
+   "epg": 555,
+   "id": 1448,
+   "name": "crime and investigation",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "documentaries, crime"
+ },
+ {
+   "epg": 554,
+   "id": 3620,
+   "name": "crime and investigation plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries, crime"
+ },
+ {
+   "epg": 372,
+   "id": 4215,
+   "name": "cs summer",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 167,
+   "id": 3618,
+   "name": "d max",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 246,
+   "id": 2306,
+   "name": "dave",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 111,
+   "id": 3809,
+   "name": "dave",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment, comedy"
+ },
+ {
+   "epg": 214,
+   "id": 2320,
+   "name": "dave ja vu",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 583,
+   "id": 5541,
+   "name": "daystar",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 561,
+   "id": 2401,
+   "name": "discovery",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "documentaries"
+ },
+ {
+   "epg": 520,
+   "id": 4003,
+   "name": "discovery",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "documentaries"
+ },
+ {
+   "epg": 535,
+   "id": 2407,
+   "name": "discovery history",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries, history"
+ },
+ {
+   "epg": 536,
+   "id": 3760,
+   "name": "discovery history plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries, history"
+ },
+ {
+   "epg": 521,
+   "id": 2404,
+   "name": "discovery plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries"
+ },
+ {
+   "epg": 525,
+   "id": 2406,
+   "name": "discovery science",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries, science"
+ },
+ {
+   "epg": 557,
+   "id": 1351,
+   "name": "discovery science plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries, science"
+ },
+ {
+   "epg": 242,
+   "id": 4548,
+   "name": "discovery shed",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries"
+ },
+ {
+   "epg": 524,
+   "id": 2409,
+   "name": "discovery turbo",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries, motoring"
+ },
+ {
+   "epg": 609,
+   "id": 4071,
+   "name": "disney channel",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "kids"
+ },
+ {
+   "epg": 631,
+   "id": 1881,
+   "name": "disney channel",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 610,
+   "id": 1882,
+   "name": "disney channel plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 628,
+   "id": 1884,
+   "name": "disney junior",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 611,
+   "id": 4073,
+   "name": "disney junior",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "kids"
+ },
+ {
+   "epg": 612,
+   "id": 1890,
+   "name": "disney junior plus",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 622,
+   "id": 1843,
+   "name": "disney xd",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 607,
+   "id": 4070,
+   "name": "disney xd",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "kids"
+ },
+ {
+   "epg": 608,
+   "id": 1844,
+   "name": "disney xd plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 799,
+   "id": 3609,
+   "name": "dm plus tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 233,
+   "id": 1865,
+   "name": "dmax plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 158,
+   "id": 2612,
+   "name": "drama",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 850,
+   "id": 1038,
+   "name": "dunya news",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 151,
+   "id": 4028,
+   "name": "e",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "celebrity, reality"
+ },
+ {
+   "epg": 239,
+   "id": 1360,
+   "name": "e",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "celebrity, reality"
+ },
+ {
+   "epg": 202,
+   "id": 1628,
+   "name": "e four",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 136,
+   "id": 4076,
+   "name": "e four",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment, comedy"
+ },
+ {
+   "epg": 137,
+   "id": 3300,
+   "name": "e four plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment, comedy"
+ },
+ {
+   "epg": 229,
+   "id": 5327,
+   "name": "e plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "celebrity, reality"
+ },
+ {
+   "epg": 563,
+   "id": 2302,
+   "name": "eden",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "documentaries, wildlife"
+ },
+ {
+   "epg": 532,
+   "id": 4068,
+   "name": "eden",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "documentaries, wildlife"
+ },
+ {
+   "epg": 533,
+   "id": 2307,
+   "name": "eden plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries, wildlife"
+ },
+ {
+   "epg": 857,
+   "id": 3111,
+   "name": "eman channel",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 508,
+   "id": 4604,
+   "name": "euronews",
+   "ignore": null,
+   "hd": null,
+   "keywords": "news"
+ },
+ {
+   "epg": 412,
+   "id": 1726,
+   "name": "eurosport one",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 410,
+   "id": 4004,
+   "name": "eurosport one",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports"
+ },
+ {
+   "epg": 443,
+   "id": 1841,
+   "name": "eurosport two",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 411,
+   "id": 4009,
+   "name": "eurosport two",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports"
+ },
+ {
+   "epg": 589,
+   "id": 3117,
+   "name": "ewtn catholic",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 590,
+   "id": 4404,
+   "name": "faith world tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 257,
+   "id": 5539,
+   "name": "fashion one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "lifestyle, fashion"
+ },
+ {
+   "epg": 342,
+   "id": 1627,
+   "name": "film four",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 315,
+   "id": 4044,
+   "name": "film four",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "movies"
+ },
+ {
+   "epg": 316,
+   "id": 1629,
+   "name": "film four plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 176,
+   "id": 3023,
+   "name": "five star",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 190,
+   "id": 3024,
+   "name": "five star plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 174,
+   "id": 3022,
+   "name": "five usa",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 219,
+   "id": 3027,
+   "name": "five usa plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 374,
+   "id": 3781,
+   "name": "flava",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 595,
+   "id": 5354,
+   "name": "flow tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 248,
+   "id": 3590,
+   "name": "food network",
+   "ignore": null,
+   "hd": null,
+   "keywords": "lifestyle, food"
+ },
+ {
+   "epg": 250,
+   "id": 3592,
+   "name": "food network plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "lifestyle, food"
+ },
+ {
+   "epg": 264,
+   "id": 5415,
+   "name": "forces tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries"
+ },
+ {
+   "epg": 362,
+   "id": 1758,
+   "name": "four music",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 140,
+   "id": 3150,
+   "name": "four seven",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 188,
+   "id": 1305,
+   "name": "fox",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 124,
+   "id": 4023,
+   "name": "fox",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 509,
+   "id": 1357,
+   "name": "fox news",
+   "ignore": null,
+   "hd": null,
+   "keywords": "news"
+ },
+ {
+   "epg": 165,
+   "id": 1791,
+   "name": "fox plus",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 513,
+   "id": 4560,
+   "name": "france eng",
+   "ignore": null,
+   "hd": null,
+   "keywords": "news"
+ },
+ {
+   "epg": 468,
+   "id": 3641,
+   "name": "front runner",
+   "ignore": null,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 655,
+   "id": 3010,
+   "name": "gems tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 817,
+   "id": 4407,
+   "name": "geo news",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign, news"
+ },
+ {
+   "epg": 816,
+   "id": 4402,
+   "name": "geo tez",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 807,
+   "id": 4110,
+   "name": "geo tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 470,
+   "id": 1830,
+   "name": "gin extreme sports tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 823,
+   "id": 4403,
+   "name": "glory tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 580,
+   "id": 3105,
+   "name": "god channel",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 110,
+   "id": 2304,
+   "name": "gold",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment, comedy"
+ },
+ {
+   "epg": 166,
+   "id": 2703,
+   "name": "gold plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment, comedy"
+ },
+ {
+   "epg": 255,
+   "id": 2308,
+   "name": "good food",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "lifestyle, food"
+ },
+ {
+   "epg": 133,
+   "id": 4067,
+   "name": "good food",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "lifestyle, food"
+ },
+ {
+   "epg": 243,
+   "id": 2326,
+   "name": "good food plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "lifestyle, food"
+ },
+ {
+   "epg": 587,
+   "id": 6548,
+   "name": "gospel channel",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 653,
+   "id": 3351,
+   "name": "gr shop",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 531,
+   "id": 1879,
+   "name": "h two",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries, history"
+ },
+ {
+   "epg": 387,
+   "id": 3830,
+   "name": "heart summer",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 800,
+   "id": 4549,
+   "name": "hidayat tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 658,
+   "id": 5706,
+   "name": "high street tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 666,
+   "id": 3404,
+   "name": "high street tv three",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 662,
+   "id": 5212,
+   "name": "high street tv two",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 597,
+   "id": 1004,
+   "name": "hill song",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "religion"
+ },
+ {
+   "epg": 545,
+   "id": 1875,
+   "name": "history",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "documentaries, history"
+ },
+ {
+   "epg": 529,
+   "id": 4086,
+   "name": "history",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "documentaries, history"
+ },
+ {
+   "epg": 530,
+   "id": 1891,
+   "name": "history plus one hour",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries, history"
+ },
+ {
+   "epg": 663,
+   "id": 3357,
+   "name": "hochanda",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 256,
+   "id": 3583,
+   "name": "holiday plus cruise",
+   "ignore": null,
+   "hd": null,
+   "keywords": "lifestyle, travel"
+ },
+ {
+   "epg": 196,
+   "id": 2301,
+   "name": "home",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 240,
+   "id": 2408,
+   "name": "home and health",
+   "ignore": null,
+   "hd": null,
+   "keywords": "lifestyle, craft"
+ },
+ {
+   "epg": 241,
+   "id": 2410,
+   "name": "home and health plus",
+   "ignore": null,
+   "hd": null,
+   "keywords": "lifestyle, craft"
+ },
+ {
+   "epg": 237,
+   "id": 5201,
+   "name": "home and leisure",
+   "ignore": null,
+   "hd": null,
+   "keywords": "lifestyle, craft"
+ },
+ {
+   "epg": 244,
+   "id": 2309,
+   "name": "home plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "lifestyle, craft"
+ },
+ {
+   "epg": 319,
+   "id": 3605,
+   "name": "horror channel",
+   "ignore": null,
+   "hd": null,
+   "keywords": "movies, horror"
+ },
+ {
+   "epg": 320,
+   "id": 4502,
+   "name": "horror channel plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "movies, horror"
+ },
+ {
+   "epg": 253,
+   "id": 3001,
+   "name": "horse and country",
+   "ignore": null,
+   "hd": null,
+   "keywords": "sports, equestrian"
+ },
+ {
+   "epg": 844,
+   "id": 5205,
+   "name": "hum europe",
+   "ignore": null,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 522,
+   "id": 2413,
+   "name": "id",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries, crime"
+ },
+ {
+   "epg": 551,
+   "id": 5452,
+   "name": "id plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries, crime"
+ },
+ {
+   "epg": 661,
+   "id": 5740,
+   "name": "ideal extra",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping, craft"
+ },
+ {
+   "epg": 654,
+   "id": 5900,
+   "name": "ideal world",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping, craft"
+ },
+ {
+   "epg": 279,
+   "id": 1047,
+   "name": "insight",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "religion"
+ },
+ {
+   "epg": 585,
+   "id": 3219,
+   "name": "inspiration",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 825,
+   "id": 3914,
+   "name": "iqra bangla",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 819,
+   "id": 6754,
+   "name": "iqra tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 191,
+   "id": 6758,
+   "name": "irish tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 806,
+   "id": 3214,
+   "name": "islam channel",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 851,
+   "id": 5211,
+   "name": "islam channel urdu",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 103,
+   "id": 6000,
+   "name": "itv",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 178,
+   "id": 6504,
+   "name": "itv",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 179,
+   "id": 6508,
+   "name": "itv be",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 207,
+   "id": 1014,
+   "name": "itv be plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 269,
+   "id": 6507,
+   "name": "itv encore",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 123,
+   "id": 6506,
+   "name": "itv encore",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 208,
+   "id": 1007,
+   "name": "itv encore plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 268,
+   "id": 6272,
+   "name": "itv four",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 120,
+   "id": 6534,
+   "name": "itv four",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 206,
+   "id": 6274,
+   "name": "itv four plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 131,
+   "id": 6155,
+   "name": "itv plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 263,
+   "id": 6260,
+   "name": "itv three",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 119,
+   "id": 6533,
+   "name": "itv three",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 193,
+   "id": 6261,
+   "name": "itv three plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 225,
+   "id": 6240,
+   "name": "itv two",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 118,
+   "id": 6532,
+   "name": "itv two",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 180,
+   "id": 6241,
+   "name": "itv two plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 665,
+   "id": 3354,
+   "name": "jewelry maker",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping, craft"
+ },
+ {
+   "epg": 651,
+   "id": 5761,
+   "name": "jml direct",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 389,
+   "id": 4933,
+   "name": "keep it country",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 368,
+   "id": 1853,
+   "name": "kerrang",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 591,
+   "id": 3776,
+   "name": "kicc tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 363,
+   "id": 1858,
+   "name": "kiss",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 627,
+   "id": 4262,
+   "name": "kix",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 629,
+   "id": 4263,
+   "name": "kix plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 455,
+   "id": 3732,
+   "name": "lfc tv",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports, football"
+ },
+ {
+   "epg": 429,
+   "id": 3845,
+   "name": "lfc tv",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports, football"
+ },
+ {
+   "epg": 236,
+   "id": 4320,
+   "name": "lifetime",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 156,
+   "id": 3920,
+   "name": "lifetime",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 197,
+   "id": 5535,
+   "name": "lifetime plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 117,
+   "id": 5090,
+   "name": "london live",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment, documentaries"
+ },
+ {
+   "epg": 586,
+   "id": 4245,
+   "name": "loveworld tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 828,
+   "id": 4460,
+   "name": "madani channel",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 364,
+   "id": 1877,
+   "name": "magic",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 793,
+   "id": 3401,
+   "name": "matv national",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 231,
+   "id": 3340,
+   "name": "more four",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 138,
+   "id": 4043,
+   "name": "more four",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 139,
+   "id": 3310,
+   "name": "more four plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 325,
+   "id": 3708,
+   "name": "movies four men",
+   "ignore": null,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 326,
+   "id": 3721,
+   "name": "movies four men plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 327,
+   "id": 4420,
+   "name": "movies twenty four",
+   "ignore": null,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 328,
+   "id": 4421,
+   "name": "movies twenty four plus",
+   "ignore": null,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 787,
+   "id": 3201,
+   "name": "mta muslim tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 220,
+   "id": 2501,
+   "name": "mtv",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment, reality"
+ },
+ {
+   "epg": 126,
+   "id": 3831,
+   "name": "mtv",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment, reality"
+ },
+ {
+   "epg": 351,
+   "id": 2508,
+   "name": "mtv base",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 356,
+   "id": 2509,
+   "name": "mtv classic",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 354,
+   "id": 2507,
+   "name": "mtv dance",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 352,
+   "id": 2506,
+   "name": "mtv hits",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 350,
+   "id": 2512,
+   "name": "mtv music",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 358,
+   "id": 3508,
+   "name": "mtv music plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 270,
+   "id": 2515,
+   "name": "mtv plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment, reality"
+ },
+ {
+   "epg": 355,
+   "id": 2503,
+   "name": "mtv rocks",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 854,
+   "id": 5359,
+   "name": "muslim ummah",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 453,
+   "id": 1834,
+   "name": "mutv",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports, football"
+ },
+ {
+   "epg": 418,
+   "id": 1003,
+   "name": "mutv",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports, football"
+ },
+ {
+   "epg": 203,
+   "id": 3731,
+   "name": "my channel",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 526,
+   "id": 4031,
+   "name": "national geographic",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "documentaries"
+ },
+ {
+   "epg": 543,
+   "id": 1806,
+   "name": "national geographic",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "documentaries"
+ },
+ {
+   "epg": 527,
+   "id": 1822,
+   "name": "national geographic plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries"
+ },
+ {
+   "epg": 528,
+   "id": 4025,
+   "name": "national geographic wild",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "documentaries, wildlife"
+ },
+ {
+   "epg": 544,
+   "id": 1847,
+   "name": "national geographic wild",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "documentaries, wildlife"
+ },
+ {
+   "epg": 511,
+   "id": 1821,
+   "name": "ndtv twenty four seven",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign, news"
+ },
+ {
+   "epg": 577,
+   "id": 5521,
+   "name": "news one eight",
+   "ignore": null,
+   "hd": null,
+   "keywords": "news"
+ },
+ {
+   "epg": 507,
+   "id": 3147,
+   "name": "nhk world",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "foreign, news"
+ },
+ {
+   "epg": 615,
+   "id": 4039,
+   "name": "nick junior",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "kids"
+ },
+ {
+   "epg": 637,
+   "id": 1857,
+   "name": "nick junior",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 630,
+   "id": 5089,
+   "name": "nick junior plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 620,
+   "id": 4340,
+   "name": "nick junior too",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 604,
+   "id": 4069,
+   "name": "nickelodeon",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "kids"
+ },
+ {
+   "epg": 632,
+   "id": 1846,
+   "name": "nickelodeon",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 605,
+   "id": 1845,
+   "name": "nickelodeon plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 606,
+   "id": 1849,
+   "name": "nicktoons",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 329,
+   "id": 3510,
+   "name": "nollywood",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign, movies"
+ },
+ {
+   "epg": 812,
+   "id": 3715,
+   "name": "noor tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 378,
+   "id": 4541,
+   "name": "now music",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 838,
+   "id": 4540,
+   "name": "ntv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 593,
+   "id": 3604,
+   "name": "olive tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 669,
+   "id": 3800,
+   "name": "pavers shoes tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 534,
+   "id": 5500,
+   "name": "pbs america",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries, history"
+ },
+ {
+   "epg": 785,
+   "id": 3258,
+   "name": "pcne chinese",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 813,
+   "id": 3704,
+   "name": "peace tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 830,
+   "id": 3224,
+   "name": "peace tv urdu",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 152,
+   "id": 1832,
+   "name": "pick",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 153,
+   "id": 1836,
+   "name": "pick plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 616,
+   "id": 3750,
+   "name": "pop",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 626,
+   "id": 4216,
+   "name": "pop plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 462,
+   "id": 5153,
+   "name": "premier",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports, football"
+ },
+ {
+   "epg": 428,
+   "id": 5311,
+   "name": "premier sports",
+   "ignore": null,
+   "hd": null,
+   "keywords": "sports, football"
+ },
+ {
+   "epg": 189,
+   "id": 4350,
+   "name": "propeller",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 238,
+   "id": 5297,
+   "name": "property show",
+   "ignore": null,
+   "hd": null,
+   "keywords": "lifestyle, fashion"
+ },
+ {
+   "epg": 886,
+   "id": 3415,
+   "name": "psychic today",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 815,
+   "id": 5715,
+   "name": "ptc punjabi",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 803,
+   "id": 3646,
+   "name": "ptv global",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 792,
+   "id": 3000,
+   "name": "ptv prime",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 144,
+   "id": 6761,
+   "name": "quest",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentary, history"
+ },
+ {
+   "epg": 195,
+   "id": 3621,
+   "name": "quest plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentary, history"
+ },
+ {
+   "epg": 650,
+   "id": 5907,
+   "name": "qvc",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 668,
+   "id": 4105,
+   "name": "qvc beauty",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 673,
+   "id": 3359,
+   "name": "qvc extra",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 678,
+   "id": 4410,
+   "name": "qvc style",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 466,
+   "id": 3636,
+   "name": "racing uk",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports, equestrian"
+ },
+ {
+   "epg": 432,
+   "id": 5272,
+   "name": "racing uk",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports, equestrian"
+ },
+ {
+   "epg": 172,
+   "id": 2207,
+   "name": "real lives",
+   "ignore": null,
+   "hd": null,
+   "keywords": "reality"
+ },
+ {
+   "epg": 173,
+   "id": 4330,
+   "name": "real lives plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "reality"
+ },
+ {
+   "epg": 155,
+   "id": 2325,
+   "name": "really",
+   "ignore": null,
+   "hd": null,
+   "keywords": "reality"
+ },
+ {
+   "epg": 657,
+   "id": 5608,
+   "name": "retail tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 581,
+   "id": 3116,
+   "name": "revelation",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 822,
+   "id": 3916,
+   "name": "rishtey",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 672,
+   "id": 3353,
+   "name": "rocks and co one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 518,
+   "id": 3213,
+   "name": "rt",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "news"
+ },
+ {
+   "epg": 512,
+   "id": 5314,
+   "name": "rt",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "news"
+ },
+ {
+   "epg": 280,
+   "id": 5701,
+   "name": "s four c",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 134,
+   "id": 2296,
+   "name": "s four c",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 847,
+   "id": 5217,
+   "name": "safeer tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 832,
+   "id": 3722,
+   "name": "samaa",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 836,
+   "id": 3355,
+   "name": "sangat",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 114,
+   "id": 4074,
+   "name": "science fiction",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment, science, science fiction"
+ },
+ {
+   "epg": 201,
+   "id": 2505,
+   "name": "science fiction",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment, science, science fiction"
+ },
+ {
+   "epg": 194,
+   "id": 2513,
+   "name": "science fiction plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment, science, science fiction"
+ },
+ {
+   "epg": 367,
+   "id": 4210,
+   "name": "scuzz",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 266,
+   "id": 5308,
+   "name": "showbiz tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "celebrity, reality"
+ },
+ {
+   "epg": 212,
+   "id": 5358,
+   "name": "showcase",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 261,
+   "id": 3206,
+   "name": "showcase three",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 829,
+   "id": 3650,
+   "name": "sikh channel",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 334,
+   "id": 1001,
+   "name": "sky action",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 307,
+   "id": 4014,
+   "name": "sky action",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "movies"
+ },
+ {
+   "epg": 223,
+   "id": 1752,
+   "name": "sky arts",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment, arts"
+ },
+ {
+   "epg": 121,
+   "id": 4063,
+   "name": "sky arts",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment, arts"
+ },
+ {
+   "epg": 222,
+   "id": 1412,
+   "name": "sky atlantic",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 108,
+   "id": 4053,
+   "name": "sky atlantic",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 170,
+   "id": 1413,
+   "name": "sky atlantic plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 335,
+   "id": 1002,
+   "name": "sky comedy",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "movies, comedy"
+ },
+ {
+   "epg": 308,
+   "id": 4019,
+   "name": "sky comedy",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "movies, comedy"
+ },
+ {
+   "epg": 332,
+   "id": 1838,
+   "name": "sky disney",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "movies, kids"
+ },
+ {
+   "epg": 305,
+   "id": 4013,
+   "name": "sky disney",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "movies, kids"
+ },
+ {
+   "epg": 310,
+   "id": 4016,
+   "name": "sky drama and romance",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "movies"
+ },
+ {
+   "epg": 337,
+   "id": 1816,
+   "name": "sky drama and romance",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 333,
+   "id": 1808,
+   "name": "sky family",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "movies, kids"
+ },
+ {
+   "epg": 306,
+   "id": 4018,
+   "name": "sky family",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "movies, kids"
+ },
+ {
+   "epg": 331,
+   "id": 1815,
+   "name": "sky greats",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 304,
+   "id": 4015,
+   "name": "sky greats",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "movies"
+ },
+ {
+   "epg": 221,
+   "id": 2201,
+   "name": "sky living",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 107,
+   "id": 4066,
+   "name": "sky living",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 122,
+   "id": 2205,
+   "name": "sky living plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 516,
+   "id": 1404,
+   "name": "sky news",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "news"
+ },
+ {
+   "epg": 501,
+   "id": 4050,
+   "name": "sky news",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "news"
+ },
+ {
+   "epg": 840,
+   "id": 4645,
+   "name": "sky news arabia",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign, news"
+ },
+ {
+   "epg": 217,
+   "id": 1402,
+   "name": "sky one",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 106,
+   "id": 4061,
+   "name": "sky one",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 130,
+   "id": 1403,
+   "name": "sky one plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 301,
+   "id": 4021,
+   "name": "sky premiere",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "movies"
+ },
+ {
+   "epg": 314,
+   "id": 1409,
+   "name": "sky premiere",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 302,
+   "id": 1823,
+   "name": "sky premiere plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 311,
+   "id": 4017,
+   "name": "sky science fiction and horror",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "movies, science fiction"
+ },
+ {
+   "epg": 339,
+   "id": 1807,
+   "name": "sky science fiction and horror",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "movies, science fiction, horror"
+ },
+ {
+   "epg": 340,
+   "id": 1811,
+   "name": "sky select",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 312,
+   "id": 4020,
+   "name": "sky select",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "movies"
+ },
+ {
+   "epg": 303,
+   "id": 4033,
+   "name": "sky showcase",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "movies"
+ },
+ {
+   "epg": 330,
+   "id": 1814,
+   "name": "sky showcase",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 440,
+   "id": 1303,
+   "name": "sky sports five",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 405,
+   "id": 4010,
+   "name": "sky sports five",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports"
+ },
+ {
+   "epg": 406,
+   "id": 1314,
+   "name": "sky sports news hq",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 451,
+   "id": 1314,
+   "name": "sky sports news hq",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 407,
+   "id": 1306,
+   "name": "sky sports mix",
+   "ignore": 1,
+   "hd": 1,
+   "keywords": "sports"
+ },
+ {
+   "epg": 439,
+   "id": 4026,
+   "name": "sky sports four",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 404,
+   "id": 4026,
+   "name": "sky sports four",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports"
+ },
+ {
+   "epg": 401,
+   "id": 4002,
+   "name": "sky sports one",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports"
+ },
+ {
+   "epg": 408,
+   "id": 3835,
+   "name": "sky sports f1",
+   "ignore": null,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 409,
+   "id": 1301,
+   "name": "sky sports one",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 402,
+   "id": 4081,
+   "name": "sky sports two",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports"
+ },
+ {
+   "epg": 436,
+   "id": 1333,
+   "name": "sky sports three",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 435,
+   "id": 1302,
+   "name": "sky sports two",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "sports"
+ },
+ {
+   "epg": 403,
+   "id": 4022,
+   "name": "sky sports three",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "sports"
+ },
+ {
+   "epg": 336,
+   "id": 1818,
+   "name": "sky thriller",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 309,
+   "id": 4062,
+   "name": "sky thriller",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "movies"
+ },
+ {
+   "epg": 129,
+   "id": 1833,
+   "name": "sky two",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 594,
+   "id": 3392,
+   "name": "son life",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 157,
+   "id": 3358,
+   "name": "sony channel",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 181,
+   "id": 3216,
+   "name": "sony channel  plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 798,
+   "id": 2603,
+   "name": "sony max",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 323,
+   "id": 3709,
+   "name": "sony movies",
+   "ignore": null,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 324,
+   "id": 3771,
+   "name": "sony movies plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 810,
+   "id": 3631,
+   "name": "sony sab",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 782,
+   "id": 2601,
+   "name": "sony tv asia",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 160,
+   "id": 1032,
+   "name": "spike",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 809,
+   "id": 3613,
+   "name": "star gold",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 783,
+   "id": 3608,
+   "name": "star life ok",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 839,
+   "id": 1771,
+   "name": "star plus",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 784,
+   "id": 5300,
+   "name": "star plus",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 808,
+   "id": 3612,
+   "name": "star ut sav",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 371,
+   "id": 3603,
+   "name": "stars tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 834,
+   "id": 4408,
+   "name": "takbeer tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 343,
+   "id": 5252,
+   "name": "talking pictures",
+   "ignore": null,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 582,
+   "id": 3109,
+   "name": "tbn uk",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 341,
+   "id": 5605,
+   "name": "tcm",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 317,
+   "id": 3811,
+   "name": "tcm",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "movies"
+ },
+ {
+   "epg": 318,
+   "id": 5275,
+   "name": "tcm plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 670,
+   "id": 3805,
+   "name": "thane",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 360,
+   "id": 1802,
+   "name": "the box",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 676,
+   "id": 3525,
+   "name": "the dept store",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 677,
+   "id": 3585,
+   "name": "the mall",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 366,
+   "id": 3935,
+   "name": "the vault",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 576,
+   "id": 5040,
+   "name": "times now",
+   "ignore": null,
+   "hd": null,
+   "keywords": "news, documentaries"
+ },
+ {
+   "epg": 617,
+   "id": 3780,
+   "name": "tiny pop",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 625,
+   "id": 4261,
+   "name": "tiny pop plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "kids"
+ },
+ {
+   "epg": 652,
+   "id": 1033,
+   "name": "tjc",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 660,
+   "id": 5707,
+   "name": "tjc choice",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 234,
+   "id": 5450,
+   "name": "tlc",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 125,
+   "id": 3812,
+   "name": "tlc",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment, reality"
+ },
+ {
+   "epg": 154,
+   "id": 5451,
+   "name": "tlc plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment, reality"
+ },
+ {
+   "epg": 200,
+   "id": 5245,
+   "name": "tlc plus two",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment, reality"
+ },
+ {
+   "epg": 249,
+   "id": 5607,
+   "name": "travel channel",
+   "ignore": null,
+   "hd": null,
+   "keywords": "lifestyle, travel"
+ },
+ {
+   "epg": 251,
+   "id": 5617,
+   "name": "travel channel plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "lifestyle, travel"
+ },
+ {
+   "epg": 656,
+   "id": 3580,
+   "name": "tristar",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 185,
+   "id": 1048,
+   "name": "true crime",
+   "ignore": null,
+   "hd": null,
+   "keywords": "crime"
+ },
+ {
+   "epg": 186,
+   "id": 4205,
+   "name": "true crime plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "crime"
+ },
+ {
+   "epg": 183,
+   "id": 5338,
+   "name": "true drama",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 184,
+   "id": 4266,
+   "name": "true entertainment",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 321,
+   "id": 3643,
+   "name": "true movies one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 322,
+   "id": 3751,
+   "name": "true movies two",
+   "ignore": null,
+   "hd": null,
+   "keywords": "movies"
+ },
+ {
+   "epg": 198,
+   "id": 5414,
+   "name": "true tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 271,
+   "id": 5253,
+   "name": "true tv plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 842,
+   "id": 5285,
+   "name": "tv 99",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 796,
+   "id": 1805,
+   "name": "tv five monde",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 849,
+   "id": 5426,
+   "name": "tv one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 856,
+   "id": 3412,
+   "name": "tv record",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 801,
+   "id": 3414,
+   "name": "tv record",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 667,
+   "id": 3632,
+   "name": "tv warehouse",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 517,
+   "id": 5882,
+   "name": "tvc news",
+   "ignore": null,
+   "hd": null,
+   "keywords": "news"
+ },
+ {
+   "epg": 572,
+   "id": 5881,
+   "name": "tvc news plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "news"
+ },
+ {
+   "epg": 820,
+   "id": 4504,
+   "name": "ummah ch",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 797,
+   "id": 3251,
+   "name": "ump movies",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign, movies"
+ },
+ {
+   "epg": 204,
+   "id": 1842,
+   "name": "universal",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 113,
+   "id": 4080,
+   "name": "universal",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 150,
+   "id": 3207,
+   "name": "universal plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 671,
+   "id": 4360,
+   "name": "v channel",
+   "ignore": null,
+   "hd": null,
+   "keywords": "shopping"
+ },
+ {
+   "epg": 805,
+   "id": 3720,
+   "name": "venus tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 357,
+   "id": 2502,
+   "name": "vhone",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 369,
+   "id": 3531,
+   "name": "vintage tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 353,
+   "id": 2511,
+   "name": "viva",
+   "ignore": null,
+   "hd": null,
+   "keywords": "music"
+ },
+ {
+   "epg": 218,
+   "id": 3108,
+   "name": "vox africa",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 245,
+   "id": 2617,
+   "name": "w",
+   "ignore": 1,
+   "hd": null,
+   "keywords": "entertainment, comedy"
+ },
+ {
+   "epg": 109,
+   "id": 3810,
+   "name": "w",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "entertainment, comedy"
+ },
+ {
+   "epg": 213,
+   "id": 2616,
+   "name": "w plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment, comedy"
+ },
+ {
+   "epg": 252,
+   "id": 1046,
+   "name": "wellbeing",
+   "ignore": null,
+   "hd": 1,
+   "keywords": "lifestyle, health"
+ },
+ {
+   "epg": 588,
+   "id": 3205,
+   "name": "word network",
+   "ignore": null,
+   "hd": null,
+   "keywords": "religion"
+ },
+ {
+   "epg": 537,
+   "id": 2305,
+   "name": "yesterday",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries, history"
+ },
+ {
+   "epg": 538,
+   "id": 2615,
+   "name": "yesterday plus one",
+   "ignore": null,
+   "hd": null,
+   "keywords": "documentaries, history"
+ },
+ {
+   "epg": 199,
+   "id": 5254,
+   "name": "your tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "entertainment"
+ },
+ {
+   "epg": 790,
+   "id": 2608,
+   "name": "zee cinema",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 835,
+   "id": 2602,
+   "name": "zee punjabi",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 788,
+   "id": 2607,
+   "name": "zee tv",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign"
+ },
+ {
+   "epg": 789,
+   "id": 2606,
+   "name": "zing",
+   "ignore": null,
+   "hd": null,
+   "keywords": "foreign, music"
+ }
+]

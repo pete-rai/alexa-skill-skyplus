@@ -1,0 +1,31 @@
+{
+  "intents":
+  [
+    {
+      "intent": "ShowMeSome",
+      "slots":
+      [
+        {
+          "name": "Genre",
+          "type": "LIST_OF_GENRES"
+        }
+      ]
+    },
+    {
+      "intent": "TuneChannel",
+      "slots":
+      [
+        {
+          "name": "Channel",
+          "type": "LIST_OF_CHANNELS"
+        }
+      ]
+    },
+    {
+      "intent": "Restart"
+    },
+    {
+      "intent": "Record"
+    }
+  ]
+}
