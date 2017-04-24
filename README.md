@@ -13,7 +13,7 @@ in the [lambda/index.js](https://github.com/pete-rai/alexa-skill-skyplus/blob/ma
 
 ### License
 
-This plugin is available under [the MIT license](https://github.com/pete-rai/alexa-skill-skyplus/blob/master/LICENSE). _Please respect the terms of the license._
+This project is available under [the MIT license](https://github.com/pete-rai/alexa-skill-skyplus/blob/master/LICENSE). _Please respect the terms of the license._
 
 ### Acknowledgments
 
