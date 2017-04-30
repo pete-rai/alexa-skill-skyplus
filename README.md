@@ -1,6 +1,6 @@
 # alexa-skill-skyplus
 
-> Visit my [GitHub Pages site](https://pete-rai.github.io/) to get in touch or to
+> Visit my [Blog](http://www.rai.org.uk) to get in touch or to
 see demos of this and much more.
 
 ## Overview
@@ -50,4 +50,4 @@ Here are the types of utterances this code can recognise and respond to. In each
 
 If you get stuck, drop me a mail.
 
-_– [Pete Rai](https://pete-rai.github.io/)_
+_– [Pete Rai](http://www.rai.org.uk)_
